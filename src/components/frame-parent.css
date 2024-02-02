@@ -1,0 +1,102 @@
+.skills-speak-louder,
+.than-words {
+  margin: 0;
+}
+.skills-speak-louder-container1 {
+  width: 100%;
+}
+.skills-speak-louder-container {
+  margin: 0;
+  width: 788px;
+  height: 166px;
+  position: relative;
+  font-size: inherit;
+  line-height: 130%;
+  font-weight: 700;
+  font-family: inherit;
+  display: flex;
+  align-items: center;
+  max-width: 100%;
+  padding-right: var(--padding-xl);
+}
+.we-help-companies {
+  position: relative;
+  line-height: 130%;
+  font-weight: 300;
+}
+.divider-frame {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-3xs) 0 0;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.around-we-help,
+.pursue-job-opportunities {
+  position: relative;
+  line-height: 130%;
+  font-weight: 300;
+}
+.divider-frame1 {
+  width: 422px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-end;
+  max-width: 100%;
+}
+.frame-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  min-height: 120px;
+  max-width: 100%;
+  font-size: var(--font-size-5xl);
+}
+.button-frame-child {
+  height: 80px;
+  width: 287px;
+}
+.button-frame,
+.frame-parent {
+  display: flex;
+  align-items: flex-start;
+}
+.button-frame {
+  align-self: stretch;
+  flex-direction: row;
+  justify-content: center;
+  padding: 0 var(--padding-xl);
+}
+.frame-parent {
+  width: 806px;
+  flex-direction: column;
+  justify-content: flex-start;
+  gap: var(--gap-lg);
+  max-width: 100%;
+  text-align: center;
+  font-size: var(--font-size-45xl);
+  color: var(--color-white);
+  font-family: var(--font-fira-code);
+}
+@media screen and (max-width: 750px) {
+  .skills-speak-louder-container {
+    font-size: var(--font-size-32xl);
+    line-height: 67px;
+  }
+}
+@media screen and (max-width: 450px) {
+  .skills-speak-louder-container {
+    font-size: var(--font-size-19xl);
+    line-height: 50px;
+  }
+  .around-we-help,
+  .pursue-job-opportunities,
+  .we-help-companies {
+    font-size: var(--font-size-lgi);
+    line-height: 25px;
+  }
+}
