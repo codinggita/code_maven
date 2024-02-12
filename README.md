@@ -9,8 +9,11 @@ Code_Maven addresses the problem faced by all the students which are intrested i
 ## netlify Deployment:
 explore Code_Maven here : 
 
-## FIGMA design:
+## Postman Documentation
+https://documenter.getpostman.com/view/32021658/2sA2r3ZmC6
 
+## FIGMA design:
+https://www.figma.com/file/vp0cfGOSRHXLf9ucpBiqlV/Figma-basics?type=design&node-id=1669%3A162202&mode=dev&t=eJZlmIgpTin3041n-1
 
 ## Similar existing solutions:
 https://leetcode.com/
