@@ -7,7 +7,7 @@ Welcome to Code_Maven, this is the place where all the current trending IT sourc
 Code_Maven addresses the problem faced by all the students which are intrested in coding and IT sector, where we we provide the quality free lectures, study matrial and the study paths where they can dive into, and the most important DSA questions and many more. Students will able to get the hands free experience  in the tech stacks what they are intrested in if they train in our Code_maven.
 
 ## netlify Deployment:
-explore Code_Maven here : 
+explore Code_Maven here : https://iridescent-cat-8c1c25.netlify.app/
 
 ## Postman Documentation
 https://documenter.getpostman.com/view/32021658/2sA2r3ZmC6
